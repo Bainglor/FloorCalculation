@@ -8,7 +8,7 @@ namespace FlooringCalculator
 {
     /// <summary>
     /// Create nessecary dependencies and execute calculation.
-    /// f(x) = floorLayoutCalculator.GetFloorLayoutCount(9, 3)
+    /// f(x,y) = floorLayoutCalculator.GetFloorLayoutCount(9, 3)
     /// </summary>
 
     internal class Program
