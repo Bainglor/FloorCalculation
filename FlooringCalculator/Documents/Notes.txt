@@ -1,0 +1,32 @@
+﻿Unfortunetly I do not have enough time to run the code for 32x10. The possible permutations are 
+3329^10 = 1.671621512572349E+35.
+I did run he code successfully for over 6 hours. There where no memory leaks and it was stable.
+When I am back to working from home I will run it again.
+Included is the log output for 9x3 which confirms the 8 valid floor layouts.
+If I had more time I would like to add DI and Unit Testing.
+
+Expectations.
+
+//32x10
+int max = 16;
+int min = 10;
+length = 32;
+width = 10;
+
+//10x3
+int max = 5;
+int min = 3;
+length = 10;
+width = 3;
+
+//9x3
+int max = 4;
+int min = 3;
+length = 9;
+width = 3;
+
+//5x3
+int max = 2;
+int min = 1;
+ength = 5;
+width = 3;
